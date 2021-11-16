@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @racyjelly
+- 👀 I’m interested in foreign language and programming language.
+- 🌱 I’m currently learning Python.
