@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @racyjelly
-- 👀 I’m interested in foreign language and programming language.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m racyjelly
+- 👀 I’m interested in AI and Front-end task.
+- 🌱 I’m currently learning Python, R and HTML/CSS.
+- 🍕 I love to eat Pizza and Salad!
