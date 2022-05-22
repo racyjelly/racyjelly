@@ -1,4 +1,4 @@
 - 👋 Hi, I’m racyjelly
-- 👀 I’m interested in AI and Front-end task.
-- 🌱 I’m currently learning Python, R and HTML/CSS.
-- 🍕 I love to eat Pizza and Salad!
+- 👀 I’m interested in Computer Vision.
+- 🌱 I’m currently learning Python!
+- 🍕 I love to eat Pizza, Salad and Chinese dishes.
