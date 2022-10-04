@@ -1,4 +1,3 @@
-- 👋 Hi, I’m racyjelly
+- 👋 Hi, I’m Jennie XD
 - 👀 I’m interested in Computer Vision.
-- 🌱 I’m currently learning Python!
-- 🍕 I love to eat Pizza, Salad and Chinese dishes.
+- 🌱 I’m currently studying Python & JAVA.
